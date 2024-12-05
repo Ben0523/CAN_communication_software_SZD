@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Szakdolgozat\CAN_app\CAN_app\bin\Debug\CAN_app.exe.config
+C:\Users\User\Desktop\Szakdolgozat\CAN_app\CAN_app\bin\Debug\CAN_app.exe
+C:\Users\User\Desktop\Szakdolgozat\CAN_app\CAN_app\bin\Debug\CAN_app.pdb
+C:\Users\User\Desktop\Szakdolgozat\CAN_app\CAN_app\obj\Debug\CAN_app.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Szakdolgozat\CAN_app\CAN_app\obj\Debug\CAN_app.Form1.resources
+C:\Users\User\Desktop\Szakdolgozat\CAN_app\CAN_app\obj\Debug\CAN_app.Properties.Resources.resources
+C:\Users\User\Desktop\Szakdolgozat\CAN_app\CAN_app\obj\Debug\CAN_app.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Szakdolgozat\CAN_app\CAN_app\obj\Debug\CAN_app.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Szakdolgozat\CAN_app\CAN_app\obj\Debug\CAN_app.exe
+C:\Users\User\Desktop\Szakdolgozat\CAN_app\CAN_app\obj\Debug\CAN_app.pdb
